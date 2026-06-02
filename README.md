@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I'm currently working on AI automations and RAG-powered apps<br>
+🔭 I'm currently working on AI automations<br>
 🧑‍🤝‍🧑 I'm looking to collaborate on agent projects, LangGraph systems, or anything involving n8n<br>
 🤝 I'm looking for help with breaking into freelancing as an AI automation dev<br>
 🌱 I'm currently learning LangChain, LangGraph, RAG, MCP, n8n — the whole agent stack<br>
