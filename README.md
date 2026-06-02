@@ -1,6 +1,9 @@
 # 💫 About Me:
-I'm currently working on building AI-powered automation systems.<br>I'm looking to collaborate on AI agent projects, n8n workflows, and LangGraph-based systems.<br>I'm looking for help with freelancing as an AI automation developer<br>I'm currently learning LangChain, LangGraph, RAG, MCP, and n8n<br>Ask me about AI automations, chatbots, and agentic workflows<br>Fun fact: I'm a BSAI student at NUST
-
+🔭 I'm currently working on AI automations and RAG-powered apps<br>
+🧑‍🤝‍🧑 I'm looking to collaborate on agent projects, LangGraph systems, or anything involving n8n<br>
+🤝 I'm looking for help with breaking into freelancing as an AI automation dev<br>
+🌱 I'm currently learning LangChain, LangGraph, RAG, MCP, n8n — the whole agent stack<br>
+💬 Ask me about building AI agents, chatbots, and workflow automations<br>
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/sag.alap.gohar.9) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/alapgohar) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/alap-gohar-142003325/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:agohar.bsai24seecs@seecs.edu.pk) 
